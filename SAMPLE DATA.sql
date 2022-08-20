@@ -61,6 +61,9 @@ VALUES ("Biology", 5, 1, 5);
 INSERT INTO courses(courses_name, courses_students_id, courses_teachers_id, courses_grades_id)
 VALUES ("Physics", 5, 3, 3);
 
+INSERT INTO courses(courses_name, courses_students_id, courses_teachers_id, courses_grades_id)
+VALUES ("Biology", 1, 3, 6);
+
 INSERT INTO grades(grades_count)
 VALUES (5);
 INSERT INTO grades(grades_count)
